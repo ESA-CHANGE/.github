@@ -12,10 +12,6 @@ By addressing hazards such as extreme rainfall, floods, droughts, heatwaves, wil
 
 The present project has been led by GMV in collaboration with the Barcelona Supercomputing Center, Plymouth Marine Laboratory, Universität Heidelberg, Istituto Zooprofilattico Sperimentale (IZSAM), and the Laboratory for Climate and Environmental Sciences (LSCE).
 
-
-
-![](assets/20251104_132856__EEB9A020-0B74-453E-9C4E-CAA90C10BDC2}.png)
-
-
+![](assets/CHANGE_logos.png)
 
 

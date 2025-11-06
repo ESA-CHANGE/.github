@@ -2,7 +2,9 @@
 
 This organization brings together all the case studies developed under the **CHANGE project**, funded by the **European Space Agency (ESA)**. Each repository contains all the code and analytical workflows developed for each case study.
 
-![](assets/front_image.png)
+<p align="center">
+  <img src="assets/front_image.png" />
+</p>
 
 # Project Description
 
